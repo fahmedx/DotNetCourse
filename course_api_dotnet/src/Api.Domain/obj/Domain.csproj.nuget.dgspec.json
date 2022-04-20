@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.Domain/Domain.csproj": {}
+    "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Domain/Domain.csproj": {}
   },
   "projects": {
-    "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.Domain/Domain.csproj": {
+    "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.Domain/Domain.csproj",
+        "projectUniqueName": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.Domain/Domain.csproj",
+        "projectPath": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Domain/Domain.csproj",
         "packagesPath": "/home/fahmedx/.nuget/packages/",
-        "outputPath": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.Domain/obj/",
+        "outputPath": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fahmedx/.nuget/NuGet/NuGet.Config"

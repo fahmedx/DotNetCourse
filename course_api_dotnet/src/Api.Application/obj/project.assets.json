@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.Application/applicatrion.csproj",
+      "projectUniqueName": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Application/applicatrion.csproj",
       "projectName": "applicatrion",
-      "projectPath": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.Application/applicatrion.csproj",
+      "projectPath": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Application/applicatrion.csproj",
       "packagesPath": "/home/fahmedx/.nuget/packages/",
-      "outputPath": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.Application/obj/",
+      "outputPath": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fahmedx/.nuget/NuGet/NuGet.Config"

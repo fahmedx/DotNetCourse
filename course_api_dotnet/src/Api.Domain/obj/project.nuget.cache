@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w0lwHVkdz6icAoqJusySVKS0R7YD5MjqbBeGBWO4biu1yKKcuKR0SdA/do/jC7vBLqUOMiBv9SPSig37JE11Vw==",
+  "dgSpecHash": "Ht2FMB8ryW8x9fPYM+zLzUowftPjFTAZuhEQ9xmo5kvL/4mtHyNfPfyTe7TQicCMr1SGjE6naG3poEc092I2RA==",
   "success": true,
-  "projectFilePath": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.Domain/Domain.csproj",
+  "projectFilePath": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

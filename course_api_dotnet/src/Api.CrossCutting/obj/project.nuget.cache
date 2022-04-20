@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u+5XczMAQAMXSFrIL6M4FdRCzaQ09ItQn7YkcNpORM+4IZYLcPXevVkttKvORkUYL0NJCUk7B4XuVftQi6YuVw==",
+  "dgSpecHash": "ltJ2WK7En404E46Tawnjw7qqxnmxB9fQHkImEwfUmuvpYqvm4djIb9sSsl/c2abiizJgU8zQIIdURhTvb3yneg==",
   "success": true,
-  "projectFilePath": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.CrossCutting/CrossCutting.csproj",
+  "projectFilePath": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.CrossCutting/CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

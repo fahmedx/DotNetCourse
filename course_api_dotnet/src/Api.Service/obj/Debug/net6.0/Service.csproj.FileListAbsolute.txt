@@ -1,0 +1,12 @@
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/bin/Debug/net6.0/Service.deps.json
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/bin/Debug/net6.0/Service.dll
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/bin/Debug/net6.0/Service.pdb
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/obj/Debug/net6.0/Service.csproj.AssemblyReference.cache
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/obj/Debug/net6.0/Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/obj/Debug/net6.0/Service.AssemblyInfoInputs.cache
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/obj/Debug/net6.0/Service.AssemblyInfo.cs
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/obj/Debug/net6.0/Service.csproj.CoreCompileInputs.cache
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/obj/Debug/net6.0/Service.dll
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/obj/Debug/net6.0/refint/Service.dll
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/obj/Debug/net6.0/Service.pdb
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Service/obj/Debug/net6.0/ref/Service.dll

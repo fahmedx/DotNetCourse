@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.CrossCutting/CrossCutting.csproj",
+      "projectUniqueName": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.CrossCutting/CrossCutting.csproj",
       "projectName": "CrossCutting",
-      "projectPath": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.CrossCutting/CrossCutting.csproj",
+      "projectPath": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.CrossCutting/CrossCutting.csproj",
       "packagesPath": "/home/fahmedx/.nuget/packages/",
-      "outputPath": "/home/fahmedx/codes/DotNet Course/course_api_dotnet/src/Api.CrossCutting/obj/",
+      "outputPath": "/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.CrossCutting/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fahmedx/.nuget/NuGet/NuGet.Config"
