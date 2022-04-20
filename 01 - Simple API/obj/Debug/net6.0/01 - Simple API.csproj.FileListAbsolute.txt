@@ -1,0 +1,33 @@
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/appsettings.Development.json
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/appsettings.json
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/01 - Simple API.staticwebassets.runtime.json
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/01 - Simple API
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/01 - Simple API.deps.json
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/01 - Simple API.runtimeconfig.json
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/01 - Simple API.dll
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/01 - Simple API.pdb
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/MySqlConnector.dll
+/home/fahmedx/codes/DotNet Course/01 - Simple API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.csproj.AssemblyReference.cache
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.GeneratedMSBuildEditorConfig.editorconfig
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.AssemblyInfoInputs.cache
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.AssemblyInfo.cs
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.csproj.CoreCompileInputs.cache
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.MvcApplicationPartsAssemblyInfo.cache
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.RazorAssemblyInfo.cache
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.RazorAssemblyInfo.cs
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/staticwebassets.build.json
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/staticwebassets.development.json
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/scopedcss/bundle/01 - Simple API.styles.css
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/scopedcss/projectbundle/01 - Simple API.bundle.scp.css
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.csproj.CopyComplete
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.dll
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/refint/01 - Simple API.dll
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.pdb
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/01 - Simple API.genruntimeconfig.cache
+/home/fahmedx/codes/DotNet Course/01 - Simple API/obj/Debug/net6.0/ref/01 - Simple API.dll

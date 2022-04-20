@@ -1,0 +1,15 @@
+/home/fahmedx/cSharpBasico/helloworld/bin/Debug/net6.0/helloworld
+/home/fahmedx/cSharpBasico/helloworld/bin/Debug/net6.0/helloworld.deps.json
+/home/fahmedx/cSharpBasico/helloworld/bin/Debug/net6.0/helloworld.runtimeconfig.json
+/home/fahmedx/cSharpBasico/helloworld/bin/Debug/net6.0/helloworld.dll
+/home/fahmedx/cSharpBasico/helloworld/bin/Debug/net6.0/helloworld.pdb
+/home/fahmedx/cSharpBasico/helloworld/obj/Debug/net6.0/helloworld.csproj.AssemblyReference.cache
+/home/fahmedx/cSharpBasico/helloworld/obj/Debug/net6.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/fahmedx/cSharpBasico/helloworld/obj/Debug/net6.0/helloworld.AssemblyInfoInputs.cache
+/home/fahmedx/cSharpBasico/helloworld/obj/Debug/net6.0/helloworld.AssemblyInfo.cs
+/home/fahmedx/cSharpBasico/helloworld/obj/Debug/net6.0/helloworld.csproj.CoreCompileInputs.cache
+/home/fahmedx/cSharpBasico/helloworld/obj/Debug/net6.0/helloworld.dll
+/home/fahmedx/cSharpBasico/helloworld/obj/Debug/net6.0/refint/helloworld.dll
+/home/fahmedx/cSharpBasico/helloworld/obj/Debug/net6.0/helloworld.pdb
+/home/fahmedx/cSharpBasico/helloworld/obj/Debug/net6.0/helloworld.genruntimeconfig.cache
+/home/fahmedx/cSharpBasico/helloworld/obj/Debug/net6.0/ref/helloworld.dll

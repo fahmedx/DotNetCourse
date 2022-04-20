@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "applicatrion", "Api.Application\applicatrion.csproj", "{B843D3FD-5156-44EA-BBD6-6ED1C8C042FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Api.Domain\Domain.csproj", "{FFDDA2CE-4B86-48FB-961D-6548F850DCF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossCutting", "Api.CrossCutting\CrossCutting.csproj", "{5573B745-4D1D-46DC-AA39-E0037FCF9720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B843D3FD-5156-44EA-BBD6-6ED1C8C042FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B843D3FD-5156-44EA-BBD6-6ED1C8C042FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B843D3FD-5156-44EA-BBD6-6ED1C8C042FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B843D3FD-5156-44EA-BBD6-6ED1C8C042FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDDA2CE-4B86-48FB-961D-6548F850DCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDDA2CE-4B86-48FB-961D-6548F850DCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDDA2CE-4B86-48FB-961D-6548F850DCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDDA2CE-4B86-48FB-961D-6548F850DCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5573B745-4D1D-46DC-AA39-E0037FCF9720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5573B745-4D1D-46DC-AA39-E0037FCF9720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5573B745-4D1D-46DC-AA39-E0037FCF9720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5573B745-4D1D-46DC-AA39-E0037FCF9720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

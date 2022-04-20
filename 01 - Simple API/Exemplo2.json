@@ -1,0 +1,22 @@
+{
+    "nome": "Menu Nome",
+    "sobrenome": "Aqui Sobrenome",
+    "idade": 23,
+    "endereco": {
+        "endereco": "Rua dos bobos, 00",
+        "cidade": "Limeira",
+        "estado": "SP",
+        "pais": "Brasil",
+        "cep": 13480180
+    },
+    "telefone": [
+        {
+            "tipo": "fixo",
+            "numero": "18 3271-3271"
+        },
+        {
+            "tipo": "celular",
+            "numero": "18 93211-1234"
+        }
+    ]
+}
