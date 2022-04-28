@@ -10,3 +10,8 @@
 /home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Data/obj/Debug/net6.0/refint/Data.dll
 /home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Data/obj/Debug/net6.0/Data.pdb
 /home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Data/obj/Debug/net6.0/ref/Data.dll
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Data/bin/Debug/net6.0/Data.runtimeconfig.json
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Data/bin/Debug/net6.0/Domain.dll
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Data/bin/Debug/net6.0/Domain.pdb
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Data/obj/Debug/net6.0/Data.csproj.CopyComplete
+/home/fahmedx/codes/DotNetCourse/course_api_dotnet/src/Api.Data/obj/Debug/net6.0/Data.genruntimeconfig.cache
